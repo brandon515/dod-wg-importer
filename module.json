@@ -1,0 +1,21 @@
+{
+  "id": "dod-wg-importer",
+  "title": "Doctors of Doom's Wrath and Glory Character Importer",
+  "description": "A module to import the character string that exports from Doctors of Doom's Wrath and Glory 40k character creator.",
+  "version": "1.0.0",
+  "authors": [
+    {
+      "name": "Brandon Haley",
+      "email": "brandon.haley94@gmail.com",
+      "discord": "theman515#0515"
+    }
+  ],
+  "compatability": {
+    "minimum": "10",
+    "verified": "10"
+  }
+  "system": [
+    "wrath-and-glory"
+  ],
+  "url": "https://github.com/brandon515/dod-wg-importer"
+}
