@@ -17,5 +17,8 @@
   "system": [
     "wrath-and-glory"
   ],
-  "url": "https://github.com/brandon515/dod-wg-importer"
+  "url": "https://github.com/brandon515/dod-wg-importer",
+  "scripts": [
+    "scripts/main.js"
+  ]
 }
